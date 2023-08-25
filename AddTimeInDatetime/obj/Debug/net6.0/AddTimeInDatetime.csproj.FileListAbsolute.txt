@@ -1,0 +1,15 @@
+C:\Users\kzeyn\source\repos\AddTimeInDatetime\AddTimeInDatetime\bin\Debug\net6.0\AddTimeInDatetime.exe
+C:\Users\kzeyn\source\repos\AddTimeInDatetime\AddTimeInDatetime\bin\Debug\net6.0\AddTimeInDatetime.deps.json
+C:\Users\kzeyn\source\repos\AddTimeInDatetime\AddTimeInDatetime\bin\Debug\net6.0\AddTimeInDatetime.runtimeconfig.json
+C:\Users\kzeyn\source\repos\AddTimeInDatetime\AddTimeInDatetime\bin\Debug\net6.0\AddTimeInDatetime.dll
+C:\Users\kzeyn\source\repos\AddTimeInDatetime\AddTimeInDatetime\bin\Debug\net6.0\AddTimeInDatetime.pdb
+C:\Users\kzeyn\source\repos\AddTimeInDatetime\AddTimeInDatetime\obj\Debug\net6.0\AddTimeInDatetime.csproj.AssemblyReference.cache
+C:\Users\kzeyn\source\repos\AddTimeInDatetime\AddTimeInDatetime\obj\Debug\net6.0\AddTimeInDatetime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kzeyn\source\repos\AddTimeInDatetime\AddTimeInDatetime\obj\Debug\net6.0\AddTimeInDatetime.AssemblyInfoInputs.cache
+C:\Users\kzeyn\source\repos\AddTimeInDatetime\AddTimeInDatetime\obj\Debug\net6.0\AddTimeInDatetime.AssemblyInfo.cs
+C:\Users\kzeyn\source\repos\AddTimeInDatetime\AddTimeInDatetime\obj\Debug\net6.0\AddTimeInDatetime.csproj.CoreCompileInputs.cache
+C:\Users\kzeyn\source\repos\AddTimeInDatetime\AddTimeInDatetime\obj\Debug\net6.0\AddTimeInDatetime.dll
+C:\Users\kzeyn\source\repos\AddTimeInDatetime\AddTimeInDatetime\obj\Debug\net6.0\refint\AddTimeInDatetime.dll
+C:\Users\kzeyn\source\repos\AddTimeInDatetime\AddTimeInDatetime\obj\Debug\net6.0\AddTimeInDatetime.pdb
+C:\Users\kzeyn\source\repos\AddTimeInDatetime\AddTimeInDatetime\obj\Debug\net6.0\AddTimeInDatetime.genruntimeconfig.cache
+C:\Users\kzeyn\source\repos\AddTimeInDatetime\AddTimeInDatetime\obj\Debug\net6.0\ref\AddTimeInDatetime.dll
